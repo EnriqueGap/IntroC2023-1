@@ -1,6 +1,6 @@
 # Física Computacional 2023-1
 
-## Introducción a C
+## [Introducción a C](./Dia1/README.md)
 
 - Diferencias entre C y Python
 - ¿Cómo y dónde programar en C?
