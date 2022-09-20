@@ -6,11 +6,11 @@ Tú puedes descargar este repositorio, siguiendo estas instrucciones:
 
 Primero, ubica el botón en la parte superior derecha que dice **"Code"**:
 
-[descarga](./download1.png)
+![descarga](./download1.png)
 
 Da click en el botón y se desplegará un menú de opciones donde podrás descarga un zip con todo el contenido de este repositorio.
 
-[descarga](./download2.png)
+![descarga](./download2.png)
 
 Este es el temario y la planeación de los siguientes dos días.
 
