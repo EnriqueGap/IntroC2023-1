@@ -13,5 +13,3 @@ Luego para ejecutar el programa
 ./hello
 ```
 - En la carpeta de 'Estructuras de Control' encontrarás códigos que utilizan ciclos for, while y condicionales utilizando if, else.
-
-- Finalmente en la carpeta 'Avanzado' encontrarás los códigos que se mostraron en clase que utilizan distintas librerías, macros, funciones y realizan distintas acciones.
