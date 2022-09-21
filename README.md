@@ -26,7 +26,7 @@ Este es el temario y la planeación de los siguientes dos días.
 - Errores de compilación vs Errores de ejecución
 - Header
 
-## Temas Avanzados en C
+## [Temas Avanzados en C](./Dia2/README.md)
 
 - Lectura y escritera de ficheros
 - Funciones
