@@ -23,7 +23,6 @@ Este es el temario y la planeación de los siguientes dos días.
 	- Declaración de variables
 	- Estructuras de control
 	- Las librerías stdio.h y math.h
-- Funciones
 - Errores de compilación vs Errores de ejecución
 - Header
 
@@ -33,10 +32,10 @@ Este es el temario y la planeación de los siguientes dos días.
 - Funciones
 - Métodos Runge Kutta
 - Variables globales y locales
+- Makefiles
 <!---
 - Punteros
-- Módulos
-- Makefiles--->
+--->
 
 ## Bibliografía
 
