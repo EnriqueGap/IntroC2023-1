@@ -24,7 +24,7 @@ int main(){
 			x=PI*(xi+tpaso*i);
 			//Calculamos y1, y2
 			y1=sin(x);
-			y2=cos(x);
+			y2=log(x);
 			//Escribimos en output.dat (i, x, y1, y2)
 			fprintf(data,"%i\t%f\t%f\t%f\n",i,x,y1,y2);
 		}
