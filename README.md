@@ -32,10 +32,6 @@ Este es el temario y la planeación de los siguientes dos días.
 - Funciones
 - Métodos Runge Kutta
 - Variables globales y locales
-- Makefiles
-<!---
-- Punteros
---->
 
 ## Bibliografía
 
